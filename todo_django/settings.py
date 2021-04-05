@@ -26,7 +26,7 @@ SECRET_KEY = '!41(+kla=0znity)_v-jr%emegq@2o@@1uje1d=eto*8*nadls'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['drg-django-react-todo.herokuapp.com']
 
 
 # Application definition
